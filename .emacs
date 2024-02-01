@@ -13,6 +13,10 @@
  ;; If there is more than one, they won't work right.
  )
 
+(add-to-list 'load-path "~/sandbox/neotree")
+(require 'neotree)
+(global-set-key [f8] 'neotree-toggle)
+
 (require 'package)
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 ;; Comment/uncomment this line to enable MELPA Stable if desired.  See `package-archive-priorities`
