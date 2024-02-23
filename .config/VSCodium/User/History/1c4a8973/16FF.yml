@@ -1,0 +1,4 @@
+---
+# This is pimarily intended to be used as a base playbook to be run on a Linux server (eventually ported to OpenBSD)
+# and used to setup a git server, jenkins server, as well as any other services that are desired.
+

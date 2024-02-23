@@ -1,0 +1,23 @@
+[KFileDialog Settings]
+Recent Files[$e]=startEmacsAtLogin.sh,file:$HOME/startEmacsAtLogin.sh
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1200 screen: Height=529
+1920x1200 screen: Width=410
+
+[MainWindow]
+1024x768 screen: Height=691
+1024x768 screen: Width=922
+1536x960 screen: Height=700
+1536x960 screen: Width=1020
+1920x1200 screen: Height=1128
+1920x1200 screen: Width=1020
+2 screens: Height=700
+2 screens: Width=1020
+3 screens: Height=700
+3 screens: Width=1020
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAARoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

@@ -1,0 +1,20 @@
+2024-01-21 21:50:52.037 [info] Log level: Info
+2024-01-21 21:50:52.037 [info] Validating found git in: "git"
+2024-01-21 21:50:52.037 [info] Using git "2.43.0" from "git"
+2024-01-21 21:50:52.037 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-21 21:50:52.037 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-21 21:50:52.037 [info] Open repository: /home/luke/sandbox/ExperimentalModeling
+2024-01-21 21:50:52.038 [info] > git config --get commit.template [4ms]
+2024-01-21 21:50:52.039 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-21 21:50:52.049 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-01-21 21:50:52.049 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-21 21:50:52.058 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-21 21:50:52.061 [info] > git status -z -uall [4ms]
+2024-01-21 21:50:52.069 [info] > git rev-parse --show-toplevel [8ms]
+2024-01-21 21:50:52.074 [info] > git config --get commit.template [5ms]
+2024-01-21 21:50:52.074 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-21 21:50:52.081 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-01-21 21:50:52.082 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-21 21:50:52.089 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-21 21:50:52.089 [info] > git status -z -uall [1ms]
+2024-01-21 21:50:52.561 [info] > git check-ignore -v -z --stdin [1ms]

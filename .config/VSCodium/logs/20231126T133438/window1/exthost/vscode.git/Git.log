@@ -1,0 +1,21 @@
+2023-11-26 13:34:46.130 [info] Log level: Info
+2023-11-26 13:34:46.130 [info] Validating found git in: "git"
+2023-11-26 13:34:46.130 [info] Using git "2.43.0" from "git"
+2023-11-26 13:34:46.130 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-26 13:34:46.130 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-26 13:34:46.130 [info] Open repository: /home/luke/sandbox/DOOM-3
+2023-11-26 13:34:46.130 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-26 13:34:46.131 [info] > git config --get commit.template [5ms]
+2023-11-26 13:34:46.140 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-26 13:34:46.140 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-26 13:34:46.291 [info] > git status -z -uall [147ms]
+2023-11-26 13:34:46.301 [info] > git config --get commit.template [1ms]
+2023-11-26 13:34:46.346 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-26 13:34:46.462 [info] > git status -z -uall [112ms]
+2023-11-26 13:34:46.643 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-26 13:34:58.705 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-26 13:34:59.791 [info] > git check-ignore -v -z --stdin [4ms]
+2023-11-26 13:35:02.560 [info] > git check-ignore -v -z --stdin [4ms]
+2023-11-26 13:35:04.955 [info] > git show --textconv :neo/framework/DeclPDA.cpp [7ms]
+2023-11-26 13:35:04.955 [info] > git ls-files --stage -- /home/luke/sandbox/DOOM-3/neo/framework/DeclPDA.cpp [2ms]
+2023-11-26 13:35:04.961 [info] > git cat-file -s 4a14c16b655867a1829352664d64ac213b34009b [2ms]

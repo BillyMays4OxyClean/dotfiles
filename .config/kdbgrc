@@ -1,0 +1,36 @@
+[Debugger]
+DebuggerCmdStr=
+
+[KFileDialog Settings]
+Recent Files[$e]=FactorioBlueprintTest,file:$HOME/sandbox/Factorio/Mk2/src/ProductionFacility.cpp,file:$HOME/sandbox/ExperimentalModeling/include/FactorioBlueprintTest
+Recent URLs[$e]=file:$HOME/sandbox/ExperimentalModeling/include/,file:$HOME/sandbox/Factorio/Mk2/src/
+detailViewIconSize=16
+
+[LastSession]
+Width0Locals=325
+Width0Watches=100
+
+[MainWindow]
+1280x800 screen: Window-Maximized=true
+1920x1200 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAHoAAABbPwCAAAAAfsAAAAMAEwAbwBjAGEAbABzAQAAAEIAAAFsAAAAXwD///8AAAADAAAE6AAAASb8AQAAAAL8AAAAAAAAAzUAAADfAP////oAAAABAQAAAAX7AAAACgBTAHQAYQBjAGsBAAAAAP////8AAABGAP////sAAAAWAEIAcgBlAGEAawBwAG8AaQBuAHQAcwEAAAAA/////wAAAN8A////+wAAAAwATwB1AHQAcAB1AHQCAAAAAAAAAAAAAAM1AAABA/sAAAAMAE0AZQBtAG8AcgB5AQAAAAD/////AAAAaAD////7AAAAEgBSAGUAZwBpAHMAdABlAHIAcwEAAAAA/////wAAAEYA/////AAAAzsAAAGtAAAA0wD////6AAAAAAEAAAAC+wAAAA4AVwBhAHQAYwBoAGUAcwEAAAAA/////wAAANMA////+wAAAA4AVABoAHIAZQBhAGQAcwEAAAIeAAABWQAAAEYA////AAAC+gAAAWwAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAAAAAN3AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[OutputWindow]
+TermCmdStr=xterm -name kdbgio -title %T -e sh -c %C
+
+[Preferences]
+BackTimeout=1000
+DisassemblyFlavor=
+HeaderFileFilter=*.h *.hh *.hpp *.h++
+PopForeground=false
+SourceFileFilter=*.c *.cc *.cpp *.c++ *.C *.CC
+TabWidth=0
+
+[RecentExecutables]
+File1[$e]=$HOME/sandbox/ExperimentalModeling/BUILD/ExperimentalModeling
+File2[$e]=$HOME/sandbox/foilgen/BUILD/foilGen
+File3[$e]=$HOME/sandbox/Factorio/Mk2/BUILD/Lambda
+Name1[$e]=ExperimentalModeling
+Name2[$e]=foilGen
+Name3[$e]=Lambda

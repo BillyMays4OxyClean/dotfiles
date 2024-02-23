@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/luke/startEmacsAtLogin.sh
+Icon=dialog-scripts
+Name=startEmacsAtLogin.sh
+Type=Application
+X-KDE-AutostartScript=true

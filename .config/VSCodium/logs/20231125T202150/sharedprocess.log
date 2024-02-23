@@ -1,0 +1,3 @@
+2023-11-25 20:21:54.410 [info] Started initializing default profile extensions in extensions installation folder. file:///home/luke/.vscode-oss/extensions
+2023-11-25 20:21:54.549 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/luke/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/luke/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-11-25 20:21:54.550 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/luke/.vscode-oss/extensions
